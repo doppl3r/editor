@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Doppler-Editor">
+    <output-path>$PROJECT_DIR$/out/artifacts/Doppler_Editor</output-path>
+    <root id="archive" name="Doppler Editor.jar">
+      <element id="module-output" name="Doppler Editor" />
+    </root>
+  </artifact>
+</component>
