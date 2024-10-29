@@ -1,6 +1,8 @@
 ### Level Editor ###
 ---------------
 
+![Screenshot](content/graphics/screenshot.png)
+
 This is a tool designed for rapid 2D map development. It has many features designated for many high-level languages such as C++. Here is a list of components:
 
   - Flexable 2D Array customization
